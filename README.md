@@ -8,3 +8,5 @@ Open data and own used in the Pulitzer Project. The folder contains: 1) .shp fil
 Metadata file (description in spanish)
 
 Web page: https://amenazaroboto.com/de_la_sequia_a_la_inundacion/trabajo_y_cambio_climatico
+
+Flooding surfaces available at https://www.ambiente.gub.uy/oan/datos-abiertos/ (Flooding surface: each File size is > 1Gb)
