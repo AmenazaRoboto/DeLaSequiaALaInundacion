@@ -1,0 +1,2 @@
+En esta carpeta tendra disponible todos los shapefiles utilizados en el proyecto Pullitzer 2023
+In this folder, you will have all the shapefiles used in the Pullitzer 2023 project available
