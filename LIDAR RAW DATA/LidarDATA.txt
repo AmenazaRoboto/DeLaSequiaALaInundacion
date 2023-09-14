@@ -1,0 +1,13 @@
+SPA. Las misiones se realizaron durante los meses de Abril y Mayo del año 2023. El sensor utilizado fue el LIDAR modelo Riegl miniVUX-2 UAV montado en un drone MATRICE 300. Las especificaciones del vuelo fueron las siguientes:
+Altura del vuelo: 70m
+Velocidad del viento: 5km/h en promedio
+Velocidad del vuelo: 8 m/s
+Superposición lateral: 70%
+ENG. The missions were conducted during the months of April and May in 2023. The sensor used was the Riegl miniVUX-2 UAV LIDAR mounted on a MATRICE 300 drone. The flight specifications were as follows:
+Flight altitude: 70m
+Wind speed: 5km/h on average
+Flight speed: 8 m/s
+Side overlap: 70%"
+
+SPA. En el siguiente enlace podrá encontrar los datos crudos del vuelo: https://drive.google.com/drive/folders/13CcjekuNvpn4gPBFdgWYiSFmmkIab7Ap?usp=sharing
+ENG. You can find the raw flight data at the following link: https://drive.google.com/drive/folders/13CcjekuNvpn4gPBFdgWYiSFmmkIab7Ap?usp=sharing
