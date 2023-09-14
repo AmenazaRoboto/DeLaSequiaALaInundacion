@@ -7,4 +7,4 @@ Open data and own used in the Pulitzer Project. The folder contains: 1) .shp fil
 
 Metadata file (description in spanish)
 
-Web page: [https://amenazaroboto.com/uruguay2100/montevideo](https://amenazaroboto.com/de_la_sequia_a_la_inundacion/trabajo_y_cambio_climatico)https://amenazaroboto.com/de_la_sequia_a_la_inundacion/trabajo_y_cambio_climatico
+Web page: https://amenazaroboto.com/de_la_sequia_a_la_inundacion/trabajo_y_cambio_climatico
