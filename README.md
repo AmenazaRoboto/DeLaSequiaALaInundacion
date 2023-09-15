@@ -1,5 +1,5 @@
 # Pullitzer2023
-Archivos utilizados y generados en el Proyecto Pullitzer - Cambio climático/ Open Data used and generated in the Pullitzer Project - Climate change
+Archivos utilizados y generados en el Proyecto Pulitzer - Cambio climático/ Open Data used and generated in the Pullitzer Project - Climate change
 
 Datos abiertos y propios utilizados en el Proyecto Pulitzer. La carpeta consta de: 1) archivos .shp; 2) Uruguay2100.mxd; 3) metadatos.
 
