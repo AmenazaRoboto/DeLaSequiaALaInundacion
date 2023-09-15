@@ -1,9 +1,9 @@
-# Pullitzer2023
-Archivos utilizados y generados en el Proyecto Pulitzer - Cambio climático/ Open Data used and generated in the Pullitzer Project - Climate change
+# DeLaSequiaAlaInundacion2023
+Archivos utilizados y generados en el Proyecto De la Sequía a la Inundación - Cambio climático/ Open Data used and generated in From Drought to Floods Project - Climate change
 
-Datos abiertos y propios utilizados en el Proyecto Pulitzer. La carpeta consta de: 1) archivos .shp; 2) Uruguay2100.mxd; 3) metadatos.
+Datos abiertos y propios utilizados en el Proyecto De la Sequía a la Inundación. La carpeta consta de: 1) archivos .shp; 2) Uruguay2100.mxd; 3) metadatos.
 
-Open data and own used in the Pulitzer Project. The folder contains: 1) .shp files; 2) Uruguay2100.mxd; 3) metadata.
+Open data and own used in From Drought to Floods Project. The folder contains: 1) .shp files; 2) Uruguay2100.mxd; 3) metadata.
 
 Metadata file (description in spanish)
 
